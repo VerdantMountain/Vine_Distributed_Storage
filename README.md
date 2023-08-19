@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Miner Core-NBminer 42.2-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
 
-# 🔥 青山币  `Verdant Mountain Coin`
+# 🔥 Verdant Mountain Coin  `青山币`
 
 - **适用场景**：网吧网咖，电竞酒店，数据中心，均适用
 - **图形界面**：操作界面干净整洁，清晰易懂，配置简洁方便
