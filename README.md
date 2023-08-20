@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/qingshan2048/img/blob/main/verdant_mountain_coin_logo_2.png" width="240">
+  <img src="https://github.com/qingshan2048/img/blob/main/verdant_mountain_coin_logo_2.png" width="300">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Full Name-KL MinerSystem-blue?logo=Windows Terminal" alt="Full Name"/>
