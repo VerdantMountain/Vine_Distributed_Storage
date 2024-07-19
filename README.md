@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VerdantMountain/resource/blob/main/xy_downloader_github_logo.png" width="240">
+  <img src="https://github.com/VerdantMountain/resource/blob/main/xy_downloader_github_logo2.png" width="240">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Software Name-XY Downloader-rgb(129, 194, 52)?labelColor=rgb(10, 119, 62)&logoColor=rgb(129, 194, 52)&logo=Windows Terminal" alt="Full Name"/>
@@ -26,13 +26,13 @@
 </div>
 -->
 
-# 🎬 迅影 - 视频下载工具
+# 🎬 藤蔓 - 分布式存储
 
 - **适用场景**：对各大主流视频平台的作品进行下载保存
 - **图形界面**：操作界面干净整洁，清晰易懂，配置简洁方便
 - **程序设计**：采用计算机底层纯C语言编写，运行稳定流畅不卡顿
 - **软件算法**：采用性能优良的下载算法，保证下载视频数据的完整准确
-- **特色功能**：可以对博主的主页进行监控操作，当有新作品发布则自动下载
+- **特色功能**：采用分布式数据处理，可以大幅度减缓网络攻击降低运营成本
 - **数据安全**：软件处理的数据采用数据优化处理，确保了数据传输过程中的完整
 - **更新升级**：软件常年保持高频率的更新，最大限度的保证了性能和市场的高度匹配
 <br><img src="https://github.com/VerdantMountain/resource/blob/main/xy_downloader_github_banner_002.png" width="750"></br>
