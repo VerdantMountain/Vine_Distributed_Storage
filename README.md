@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VerdantMountain/resource/blob/main/vine_distributed_storage_github_logo.png" width="240">
+  <img src="https://github.com/VerdantMountain/resource/blob/main/vine_distributed_storage_github_logo.png" width="300">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Software Name-XY Downloader-rgb(129, 194, 52)?labelColor=rgb(10, 119, 62)&logoColor=rgb(129, 194, 52)&logo=Windows Terminal" alt="Full Name"/>
